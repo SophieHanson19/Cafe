@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 80px 60px;
+}
+.navl-ink {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: black;
+    list-style:none;
+}
+.homepage {
+    padding: 50px;
+}
+
+
+
